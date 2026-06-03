@@ -22,6 +22,16 @@ I specialize in building scalable, secure, and highly available systems using mo
 - ☁️ Cloud Infrastructure (AWS / Azure)
 - 📦 Infrastructure as Code (Terraform, Ansible)
 - 📊 Monitoring & Observability (Prometheus, Grafana, ELK)
+- 🔧 Middleware Administration & Engineering
+  - IBM WebSphere Application Server (WAS)
+  - IBM HTTP Server (IHS)
+  - Oracle WebLogic Server
+  - Apache Tomcat
+  - Apache HTTP Server
+  - Red Hat JBoss / WildFly
+  - NGINX Web Server & Reverse Proxy
+- 🔐 Linux System Administration & Performance Tuning
+- 🚀 Application Deployment, Migration & Release Management
 
 ---
 
