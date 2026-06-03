@@ -87,7 +87,7 @@ I specialize in building scalable, secure, and highly available systems using mo
 - Application & cluster monitoring
 - Alert manager integration
 
-👉 https://github.com/Devopslearning-2026/monitoring-prometheus-grafana
+👉 https://github.com/RameshVallapu/monitoring-prometheus-grafana
 
 ---
 
@@ -96,6 +96,14 @@ I specialize in building scalable, secure, and highly available systems using mo
 ![Stats](https://github-readme-stats.vercel.app/api?username=RameshVallapu&show_icons=true&theme=tokyonight)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RameshVallapu&layout=compact&theme=tokyonight)
+
+## 📈 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RameshVallapu&theme=tokyonight)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RameshVallapu&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RameshVallapu&theme=tokyonight)
 
 ---
 
