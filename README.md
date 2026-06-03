@@ -51,7 +51,7 @@ I specialize in building scalable, secure, and highly available systems using mo
 - Docker image creation + Kubernetes deployment
 - GitHub webhook integration
 
-👉 https://github.com/Devopslearning-2026/jenkins-cicd-pipeline
+👉 https://github.com/RameshVallapu/27.Expense-Ansible-Jenkins
 
 ---
 
@@ -60,7 +60,7 @@ I specialize in building scalable, secure, and highly available systems using mo
 - ConfigMaps, Secrets, Services, Ingress
 - Horizontal scaling enabled
 
-👉 https://github.com/Devopslearning-2026/kubernetes-deployments
+👉 https://github.com/RameshVallapu/docker-k8s
 
 ---
 
@@ -69,7 +69,7 @@ I specialize in building scalable, secure, and highly available systems using mo
 - Private Docker registry integration
 - Optimized multi-stage builds
 
-👉 https://github.com/Devopslearning-2026/docker-microservices
+👉 https://github.com/RameshVallapu/28.Expense-Docker
 
 ---
 
@@ -78,7 +78,7 @@ I specialize in building scalable, secure, and highly available systems using mo
 - VPC, EC2, IAM provisioning
 - Reusable modules
 
-👉 https://github.com/Devopslearning-2026/terraform-infrastructure
+👉 https://github.com/RameshVallapu/15.Terraform-VPC-Module
 
 ---
 
@@ -93,9 +93,9 @@ I specialize in building scalable, secure, and highly available systems using mo
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Devopslearning-2026&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=RameshVallapu&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devopslearning-2026&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RameshVallapu&layout=compact&theme=tokyonight)
 
 ---
 
