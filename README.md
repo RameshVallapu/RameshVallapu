@@ -30,7 +30,7 @@ I specialize in building scalable, secure, and highly available systems using mo
   - Apache HTTP Server
   - Red Hat JBoss / WildFly
   - NGINX Web Server & Reverse Proxy
-- 🔐 Linux System Administration & Performance Tuning
+- 🔐 Linux System Administration
 - 🚀 Application Deployment, Migration & Release Management
 
 ---
