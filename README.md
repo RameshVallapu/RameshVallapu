@@ -1,6 +1,6 @@
 # 👋 Ramesh Vallapu
 
-💼 Senior DevOps Engineer | Middleware | Cloud | Kubernetes Specialist  
+💼 DevOps Engineer | Middleware | Cloud | Kubernetes Specialist  
 📍 Hyderabad, India  
 ⏳ 10+ Years Experience in Middleware, DevOps, Cloud & Distributed Systems  
 
